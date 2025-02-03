@@ -1,2 +1,2 @@
-# Multi-Disease-Detection
-This project is about Multi Disease Detection using Machine Learning. 
+# Multi-Disease-Prediction
+This project is about Multi Disease Prediction using Machine Learning. 
